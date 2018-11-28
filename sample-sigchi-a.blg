@@ -1,0 +1,5 @@
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'sample-sigchi-a.blg'
+[21] biber:313> INFO - === Mi Nov 28, 2018, 16:15:05
+[70] Utils.pm:209> ERROR - Cannot find control file 'sample-sigchi-a.bcf'! - Did latex run successfully on your .tex file before you ran biber?
+[70] Biber.pm:114> INFO - ERRORS: 1
